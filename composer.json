@@ -1,0 +1,14 @@
+{
+    "name": "zhibaihe/patterns",
+    "description": "Design pattern examples that actually make sense.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "DUAN Zhiyan",
+            "email": "zhiyan@zhibaihe.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
